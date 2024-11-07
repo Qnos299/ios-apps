@@ -1,6 +1,6 @@
 {
     "name": "EeveeSpotify",
-    "identifier": "com.qnos299.EeveeSpotify",
+    "bundleIdentifier": "com.qnos299.EeveeSpotify",
     "apps": [
       {
         "name": "EeveeSpotify",
