@@ -1,22 +1,17 @@
 {
-    "name": "EeveeSpotify",
-    "bundleIdentifier": "com.qnos299.EeveeSpotify",
+    "name": "Qnos299's AltStore Source",
+    "identifier": "com.qnos299.altstore",
     "apps": [
-      {
-        "name": "EeveeSpotify",
-        "developerName": "Qnos299",
-        "version": "5.7",
-        "versionDate": "2024-11-07",
-        "versionDescription": "Custom Spotify app with enhancements for iOS.",
-        "downloadURL": "https://raw.githubusercontent.com/Qnos299/ios-apps/refs/heads/main/apps/EeveeSpotify-5.7-8.9.86.ipa",
-        "localizedDescription": "Spotify with additional features.",
-        "iconURL": "https://raw.githubusercontent.com/Qnos299/ios-apps/refs/heads/main/icons/EeveeSpotify.png",
-        "tintColor": "#1DB954",
-        "screenshotURLs": [
-          "https://raw.githubusercontent.com/Qnos299/ios-apps/refs/heads/main/screenshots/EeveeSpotify-1.png",
-          "https://raw.githubusercontent.com/Qnos299/ios-apps/refs/heads/main/screenshots/EeveeSpotify-2.png"
-        ]
-      }
+        {
+            "name": "EeveeSpotify",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "Qnos299",
+            "version": "5.7-8.9.86",
+            "versionDate": "2024-11-07",
+            "downloadURL": "https://raw.githubusercontent.com/Qnos299/ios-apps/refs/heads/main/apps/EeveeSpotify-5.7-8.9.86.ipa",
+            "localizedDescription": "A modified version of Spotify with added features.",
+            "iconURL": "https://example.com/icon.png",
+            "tintColor": "rgb(30,215,96)"
+        }
     ]
-  }
-  
+}
