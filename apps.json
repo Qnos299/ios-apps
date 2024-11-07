@@ -1,6 +1,5 @@
 {
     "name": "Qnos299's AltStore Source",
-    "identifier": "com.qnos299.altstore",
     "apps": [
         {
             "name": "EeveeSpotify",
