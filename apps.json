@@ -4,7 +4,7 @@
     "apps": [
         {
             "name": "EeveeSpotify",
-            "bundleIdentifier": "com.spotify.client",
+            "bundleidentifier": "com.spotify.client",
             "developerName": "Qnos299",
             "version": "5.7-8.9.86",
             "versionDate": "2024-11-07",
