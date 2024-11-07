@@ -1,6 +1,6 @@
 {
     "name": "Qnos299's AltStore Source",
-    "bundleidentifier": "com.spotify.client",
+    "bundleIdentifier": "com.epicgames.FortniteGame",
     "apps": [
         {
             "name": "EeveeSpotify",
